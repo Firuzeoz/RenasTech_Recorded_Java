@@ -8,7 +8,7 @@ public class HelloJavaWorld {
         System.out.println("Hello World!");
         //printing out
 
-
+//it is just a deneme line
     }
 
 
